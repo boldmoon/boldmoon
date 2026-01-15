@@ -1,5 +1,5 @@
 # 👋 Hi There, About Me:
-🧑‍🎓 A level student<br>⏰ Rarely active on GitHub<br>🔭 Currently developing the Cursor for hardware.<br>
+🧑‍🎓 A level student<br>⏰ Rarely active on GitHub<br>🔭 Currently working on a copilot for hardware development.<br>
 
 
 ## 🌐 Socials:
